@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "yfinance"
+    ],
+    "python.analysis.extraPaths": [
+        "./modules/helpers/utils"
+    ]
+}
